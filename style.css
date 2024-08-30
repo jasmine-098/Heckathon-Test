@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.space-grotesk Font {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.h1{
+    font-size: 50px;
+}
+@media only screen and (max-width:421px){
+    .h1{
+        font-size: 40px;
+    }
+}
